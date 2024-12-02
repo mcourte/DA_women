@@ -1,4 +1,11 @@
+# Ignorer le dossier de l'environnement virtuel
 /env/
-/women.ipynb
-/find_countries.py
+
+# Ignorer les notebooks spécifiques
+women.ipynb
+
+# Ignorer le script Python spécifique
+find_countries.py
+
+# Ignorer les checkpoints de Jupyter
 /.ipynb_checkpoints/
