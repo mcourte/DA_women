@@ -353,7 +353,7 @@ plt.show()
 
 
     
-![png](women_files/women_18_0.png)
+![png](output_18_0.png)
     
 
 
@@ -380,7 +380,7 @@ plt.show()
 
 
     
-![png](women_files/women_20_0.png)
+![png](output_20_0.png)
     
 
 
@@ -1148,7 +1148,7 @@ plt.show()
 
 
     
-![png](women_files/women_43_0.png)
+![png](output_43_0.png)
     
 
 
@@ -1873,7 +1873,7 @@ plt.show()
 
 
     
-![png](women_files/women_51_0.png)
+![png](output_51_0.png)
     
 
 
@@ -2474,7 +2474,7 @@ plt.show()
 
 
     
-![png](women_files/women_58_0.png)
+![png](output_58_0.png)
     
 
 
@@ -3059,7 +3059,7 @@ plt.show()
 
 
     
-![png](women_files/women_65_0.png)
+![png](output_65_0.png)
     
 
 
@@ -3703,7 +3703,7 @@ plt.show()
 
 
     
-![png](women_files/women_73_0.png)
+![png](output_73_0.png)
     
 
 
@@ -4218,7 +4218,7 @@ plt.show()
 
 
     
-![png](women_files/women_78_0.png)
+![png](output_78_0.png)
     
 
 
@@ -4776,7 +4776,7 @@ plt.show()
 
 
     
-![png](women_files/women_84_0.png)
+![png](output_84_0.png)
     
 
 
@@ -5481,7 +5481,7 @@ plt.show()
 
 
     
-![png](women_files/women_92_0.png)
+![png](output_92_0.png)
     
 
 
@@ -6039,7 +6039,7 @@ plt.show()
 
 
     
-![png](women_files/women_98_0.png)
+![png](output_98_0.png)
     
 
 
@@ -6498,7 +6498,7 @@ plt.show()
 
 
     
-![png](women_files/women_107_0.png)
+![png](output_107_0.png)
     
 
 
@@ -6541,7 +6541,7 @@ plt.tight_layout()
 
 
     
-![png](women_files/women_110_0.png)
+![png](output_110_0.png)
     
 
 
@@ -6583,7 +6583,7 @@ plt.tight_layout()
 
 
     
-![png](women_files/women_113_0.png)
+![png](output_113_0.png)
     
 
 
@@ -6624,7 +6624,7 @@ plt.tight_layout()
 
 
     
-![png](women_files/women_116_0.png)
+![png](output_116_0.png)
     
 
 
@@ -6696,7 +6696,7 @@ plot_continent_data(data_europe_combined, "Europe")
 
 
     
-![png](women_files/women_119_1.png)
+![png](output_119_1.png)
     
 
 
@@ -7021,7 +7021,7 @@ plot_continent_data(data_americas_combined, "Amériques")
 
 
     
-![png](women_files/women_124_1.png)
+![png](output_124_1.png)
     
 
 
@@ -7151,7 +7151,7 @@ plot_continent_data(data_asia_combined, "Asie")
 
 
     
-![png](women_files/women_127_1.png)
+![png](output_127_1.png)
     
 
 
@@ -7464,7 +7464,7 @@ plot_continent_data(data_africa_combined, "Afrique")
 
 
     
-![png](women_files/women_133_1.png)
+![png](output_133_1.png)
     
 
 
